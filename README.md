@@ -8,7 +8,7 @@ Para visualizar este proyecto se necesita que previamente cuentes con la instala
   
 Una vez que ya cuentes con lo descrito anteriormente, debes clonar este repositorio en una carpeta local, mediante el siguiente comando:
 ```bash
-git clone https://github.com/lorenasotosanmartin/M4_EP1.git
+git clone https://github.com/lorenasotosanmartin/M5_EP2.git
 ```
 cuando ya este clonado, escribir el siguiente comando en la consola: 
 ```bash
