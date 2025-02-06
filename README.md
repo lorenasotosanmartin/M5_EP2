@@ -1,4 +1,7 @@
-
+# Ejercicio practico: Seguridad en la Web del Hospital
+## Descripción
+En este proyecto, se aplican medidas de seguridad avanzadas en la web del hospital desarrollada en ReactJS. se integra protección contra ataques comunes,
+se aseguran las rutas de la aplicación implementando seguridad por roles y autenticación de usuarios para restringir el acceso a áreas específicas de la aplicación.
  
  ### Visualización del proyecto
 Para visualizar este proyecto se necesita que previamente cuentes con la instalación de:
