@@ -11,7 +11,7 @@ Para acceder a las rutas privadas de la aplicación, solo se puede ingresar aute
 los usuarios actualmente definidos en el sistema corresponden al rol adminsitrador y doctor: 
  - user: administrador, password: admin123!
  - user: felipe Zapata, password: felipeZapata123!
- - 
+
 ### Prevención de Vulnerabilidades Comunes
 En el sistema se integran medidas de prevención constra ataques Clickjacking y XSS (Cross-Site Scripting), mediante el uso de encabezados especificos y JSX que previene la inyeccion de codigos maliciosos en la aplicación.
 
