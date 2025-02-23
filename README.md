@@ -8,7 +8,7 @@ Mediante react router DOM se definen rutas publicas, a las cuales un usuario pue
 
 ### Implementación de Autenticación de Usuarios y Roles 
 Para acceder a las rutas privadas de la aplicación, solo se puede ingresar autenticando sus datos en http://localhost:3000/login 
-los usuarios actualmente definidos en el sistema corresponden al rol adminsitrador y doctor: 
+los usuarios actualmente definidos en el sistema corresponden al rol administrador y doctor: 
  - user: administrador, password: admin123!
  - user: felipe Zapata, password: felipeZapata123!
 
